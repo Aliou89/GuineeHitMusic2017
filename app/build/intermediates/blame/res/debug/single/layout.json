@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_tumblr.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_tumblr.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_wordpress_list_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_wordpress_list_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/drawer_top.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/drawer_top.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/jc_layout_standard.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/fm.jiecao/jiecaovideoplayer/3.6.2/res/layout/jc_layout_standard.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/simple_sound_cloud_notification_expanded.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/simple_sound_cloud_notification_expanded.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_webview.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/drawer_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/drawer_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/listview_loading.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/listview_loading.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/jc_layout_base.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/fm.jiecao/jiecaovideoplayer/3.6.2/res/layout/jc_layout_base.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_main_alternate.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_main_alternate.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/soundcloud_track_view.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/soundcloud_track_view.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_facebook_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_facebook_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/drawer_fragment.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/drawer_fragment.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_fav.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/simple_sound_cloud_notification.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/simple_sound_cloud_notification.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/soundcloud_playback_view.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/soundcloud_playback_view.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_webview.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_fav_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_fav_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_comments_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_comments_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_comments.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_tumblr_pager_image.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_tumblr_pager_image.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_comment_sub.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_comment_sub.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_youtube_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_youtube_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_tweets_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_tweets_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_media.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_media.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/toolbar_transparent.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/toolbar_transparent.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/listview_highlight.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/listview_highlight.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/simple_sound_cloud_notification_icon.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/simple_sound_cloud_notification_icon.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_list_nopadding.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_list_nopadding.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_maps.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_rss_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_rss_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/listview_footer.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_instagram_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_instagram_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_radio.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_radio.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_soundcloud.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_soundcloud.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_rss_details.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_rss_details.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_webview_actionbar.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_webview_actionbar.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_preference_list.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_preference_list.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_tumblr_row.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_tumblr_row.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/toolbar_default.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/toolbar_default.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/jc_volume_dialog.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/fm.jiecao/jiecaovideoplayer/3.6.2/res/layout/jc_volume_dialog.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/fragment_tv.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/fragment_tv.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_details.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_youtube_detail.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_youtube_detail.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_tumblr_pager.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_tumblr_pager.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/drawer_section.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/drawer_section.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_main_tablet.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_main_tablet.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/jc_progress_dialog.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/fm.jiecao/jiecaovideoplayer/3.6.2/res/layout/jc_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/activity_wordpress_details.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/src/main/res/layout/activity_wordpress_details.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.github.mark-dlc/RadioPlayerService/88b5de0/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/res/merged/debug/layout/notification_expanded.xml",
+        "source": "/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/intermediates/exploded-aar/com.github.mark-dlc/RadioPlayerService/88b5de0/res/layout/notification_expanded.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="70027703410535"
+    token="2906392043100508896" >
+
+    <task
+        name="javac"
+        duration="106445" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="47343" />
+    <task
+        name="verifier"
+        duration="32620" />
+
+    <artifact
+        location="/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="70027703410535" >
+        <artifact
+            location="/Users/Mamadou/AndroidStudioProjects/Guinee Music Hit New/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
